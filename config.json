@@ -3,5 +3,6 @@
     "api_url": "https://api.mu9.vip/",
     "socket_url": "wss://stg-sock.mu9.com",
     "phone_contact": "tel:+84399021123",
-    "phone_number": "0934111123"
+    "phone_number": "0934111123",
+    "enable_game_fake": 1
 }
